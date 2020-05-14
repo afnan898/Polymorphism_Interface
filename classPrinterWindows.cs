@@ -4,7 +4,7 @@ namespace Polymorphism_2673
 {
     interface PrinterWindows
     {
-        void show();
-	void print();
+        void Show();
+	void Print();
     }
 }
